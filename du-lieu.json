@@ -1,6 +1,6 @@
 [
   {
-    "": "TÊN",
+    "_0": "TÊN",
     "_1": "THƯƠNG HIỆU",
     "_2": "LOẠI",
     "_3": "ĐỊNH LƯỢNG",
@@ -20,7 +20,7 @@
     "_16": "Vitamin B12 (µg)"
   },
   {
-    "": "Revive zero calo",
+    "_0": "Revive zero calo",
     "_1": "PepsiCo",
     "_2": "Nước điện giải",
     "_3": "500 ml",
@@ -40,7 +40,7 @@
     "_16": "0.4"
   },
   {
-    "": "Revive vị chanh muối",
+    "_0": "Revive vị chanh muối",
     "_1": "PepsiCo",
     "_2": "Nước điện giải",
     "_3": "390 ml",
